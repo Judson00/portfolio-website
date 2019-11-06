@@ -3379,7 +3379,6 @@ input, select, textarea {
 
 	#banner {
 		padding: 10em 0 4.75em 0 ;
-		
 	}
 
 		#banner .inner {
@@ -3463,7 +3462,7 @@ input, select, textarea {
 		}
 
 		@media screen and (max-width: 1280px) {
-			
+
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #2e3141;
